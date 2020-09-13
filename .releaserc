@@ -1,6 +1,7 @@
 {
   "tagFormat": "${version}",
   "branch": "master",
+  "npmPublish": false,
   "verifyConditions": [
     "@qiwi/semantic-release-gh-pages-plugin"
   ],
