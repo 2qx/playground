@@ -2,7 +2,6 @@
   "tagFormat": "${version}",
   "branch": "master",
   "verifyConditions": [
-    "@semantic-release/changelog",
     "@qiwi/semantic-release-gh-pages-plugin"
   ],
   "publish": [

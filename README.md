@@ -1,3 +1,8 @@
+# json.cash
+
+This is a fork of OpenRPC for an open-rpc electrum cash specification
+
+
 # OpenRPC Playground
 
 This is a tool for editing, validating and previewing [OpenRPC documents](https://spec.open-rpc.org/#openrpc-document).
