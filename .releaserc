@@ -8,8 +8,6 @@
     "@qiwi/semantic-release-gh-pages-plugin"
   ],
   "publish": [
-    "@semantic-release/github",
-    "@semantic-release/npm",
     {
       "path": "@qiwi/semantic-release-gh-pages-plugin",
       "msg": "deploy: new playground gh-pages release",
