@@ -58,7 +58,7 @@ const App: React.FC = () => {
   }, []);
 
   useEffect(() => {
-    const defaultExample = examples.find((e) => e.name === "petstore");
+    const defaultExample = examples.find((e) => e.name === "electrum-cash");
     if (!defaultValue && !searchUrl && defaultExample) {
       setSearchUrl(defaultExample.url);
     }
